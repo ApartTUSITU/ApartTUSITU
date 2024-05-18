@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎙️ 自我介绍
+### 🎙️ About me
 - 🌱 I’m currently learning `C++`!
 - 👯 I'm a menber of [@SO-TS](//github.com/SO-TS)!
-- 🔭 I'm the owner of [WSMCS服务器](//www.wsmcs.top)!
-- 💬 My Homepage:[www.aptusitu.top](//www.aptusitu.top)!
+- 🔭 I'm the owner of [WSMCS](//www.wsmcs.top)!
+- 💬 My Homepage: [www.aptusitu.top](//www.aptusitu.top)!
 
 ### 📖 Github Status
 ![https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue](https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue)
