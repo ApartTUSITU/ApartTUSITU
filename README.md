@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### 🎙️ 自我介绍
-- 🌱 我正在学习 C++ 和 Python！
-- 👯 我是 @Tuji Studio 的成员！
-- 🔭 我在 [WSMCS服务器](//wsmcs.top) 担任服主一职！
-- 💬 我的个人博客：[blog.aptusitu.link](//blog.aptusitu.link)
+- 🌱 我正在学习'C++'!
+- 👯 我是 @SO-TS 的成员!
+- 🔭 我在 [WSMCS服务器](//www.wsmcs.top) 担任服主一职！
+- 💬 我的个人博客：[blog.aptusitu.top](//blog.aptusitu.top)
 
 ### 📖 Github Status
 ![https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue](https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue)
