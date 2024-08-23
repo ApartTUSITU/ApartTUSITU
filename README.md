@@ -12,14 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi there!
 
 ### 🎙️ About me
-- 🌱 I’m currently learning `C++`!
-- 👯 I'm a menber of [@SO-TS](//github.com/SO-TS)!
-- 🔭 I'm the owner of [WSMCS](//www.wsmcs.top)!
-- 💬 My Homepage: [www.aptusitu.top](//www.aptusitu.top)!
-- 📫 I communicate in Chinese Simplified!
+A junior high school student, working in Chinese, trying to learn English and C++.  
+I've made a lot of jokes myself. My understanding is not comprehensive enough, so it is a bit naive. ~~(accept it plz!!!)~~
 
-### 📖 Github Status
-![https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue](https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue)
-![https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&theme=shadow_blue](https://github-readme-stats.vercel.app/api/top-langs/?username=ApartTUSITU&layout=compact&theme=shadow_blue)
+### 🛰 Skill
+- Programming with ChatGPT and Search.
+- A little C++ programming.
+- Copy and paste to build websites.
+
+### 🌱 Projects
+Nothing. (My level is too low)
+
+### 📖 GitHub Status
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ApartTUSITU&show_icons=true&count_private=true&theme=shadow_blue" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApartTUSITU&layout=compact&theme=shadow_blue" />
+</a>
