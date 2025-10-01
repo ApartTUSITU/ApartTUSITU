@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### 🎙️ About me
 A junior middle school student, working in Chinese, trying to learn English and C++.  
-I've made a lot of jokes myself. My understanding is not comprehensive enough, so it is a bit naive. ~~(accept it plz!!!)~~ If you want to know more about my bad past, please visit [rakugen.aptusitu.xyz](https://rakugen.aptusitu.xyz)
+I've made a lot of jokes myself. My understanding is not comprehensive enough, so it is a bit naive. ~~(accept it plz!!!)~~
+If you want to know more about my bad past, please visit [rakugen.aptusitu.xyz](https://rakugen.aptusitu.xyz)
 
 ### 🛰 Skill
 - Programming with ChatGPT and Search.
