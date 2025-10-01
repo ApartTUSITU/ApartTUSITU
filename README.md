@@ -24,7 +24,7 @@ I've made a lot of jokes myself. My understanding is not comprehensive enough, s
 - Copy, paste, and cherry-pick from GitHub repositories.
 
 ### 🌱 Projects
-[kernel_xiaomi_sm8250_mod](https://github.com/ApartTUSITU/kernel_xiaomi_sm8250_mod)
+1. [kernel_xiaomi_sm8250_mod](https://github.com/ApartTUSITU/kernel_xiaomi_sm8250_mod)
 
 ### 📖 GitHub Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
