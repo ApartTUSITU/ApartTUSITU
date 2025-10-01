@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 # 👋 Hi there!
 
 ### 🎙️ About me
-A junior high school student, working in Chinese, trying to learn English and C++.  
-I've made a lot of jokes myself. My understanding is not comprehensive enough, so it is a bit naive. ~~(accept it plz!!!)~~
+A junior middle school student, working in Chinese, trying to learn English and C++.  
+I've made a lot of jokes myself. My understanding is not comprehensive enough, so it is a bit naive. ~~(accept it plz!!!)~~ If you want to know more about my bad past, please visit [rakugen.aptusitu.xyz](https://rakugen.aptusitu.xyz)
 
 ### 🛰 Skill
 - Programming with ChatGPT and Search.
 - A little C++ programming.
-- Copy and paste to build websites.
+- Copy, paste, and cherry-pick from GitHub repositories.
 
 ### 🌱 Projects
-Nothing. (My level is too low)
+[kernel_xiaomi_sm8250_mod](https://github.com/ApartTUSITU/kernel_xiaomi_sm8250_mod)
 
 ### 📖 GitHub Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
