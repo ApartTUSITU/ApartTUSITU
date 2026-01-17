@@ -30,6 +30,3 @@ A junior middle school student, working in Chinese, trying to learn English and 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.aptusitu.icu/api?username=ApartTUSITU&show_icons=true&count_private=true&theme=shadow_blue" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.aptusitu.icu/api/top-langs/?username=ApartTUSITU&layout=compact&theme=shadow_blue" />
-</a>
